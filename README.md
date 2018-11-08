@@ -1,2 +1,2 @@
 # auto_selenium
-selenium_auto
+selenium for centos 
